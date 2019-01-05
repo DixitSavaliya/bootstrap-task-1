@@ -1,0 +1,176 @@
+.logo-color
+{
+	background-color: orange;
+	
+
+}
+.header-color
+{
+	background-color: orange;
+	border: 3px solid;
+	
+
+}
+h4.header-size
+{
+	padding-top: 30px;
+	font-size: 30px;
+
+
+}
+.addemployee-bg-color
+{
+	
+	background-color: maroon;
+	text-align: left;
+	border: 3px solid;
+
+}
+h3.addemployee-font-color
+{
+	color: darkgray;
+	text-align: center;
+	margin: 0;
+}
+.empdetails-bg-color
+{
+	background-color: pink;
+	border: 1px solid;
+	color: red;
+}
+.empdetails-font-size-font-color
+{
+	color: red;
+	font-size: 13px;
+}
+.employee-secdetails-bg-color
+{
+	background-color: blue;
+	border: 8px solid;
+	color: red;
+}
+.employee-secdetails-font-size-font-color
+{
+	color: red;
+	font-size: 14px;
+}
+.contact-dt-pos
+{
+	position: absolute;
+	top: 38%;
+	margin-left: 15px;
+}
+.contact-dt-bg-color
+{
+	background-color: white;
+}
+.confield-bor
+{
+	border: 3px solid white;
+	border-radius: 10px;
+	padding: 10px;
+}
+.button
+{
+	text-align: center;
+	align-self: center;
+
+}
+.button-color
+{
+	color: blue;
+}
+.button-bg {
+		background-color: #4CAF50;
+		border:1px solid;
+		color: #f1f1c1;
+		padding: 12px 22px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 0px 3px;
+		cursor: pointer;
+		margin-left: 40px;
+	}
+.col-2-bg-color
+{
+	background-color: yellow;
+	border: 2.5px solid;
+	color: red;
+
+}
+.col-2-font-color-font-size
+{
+	color: red;
+	font-size: 15px;
+}
+.col-sm
+{
+	padding-top: 10px;
+
+	
+}
+.N-font-size-font-color
+{
+	color: red;
+	font-size: 36px
+}
+.O-font-size-font-color
+{
+	color: #E4CD05;
+	font-size: 27px;
+}
+.T-font-size-font-color
+{
+	color: blue;
+	font-size: 37px;
+}
+.I-font-size
+{
+	font-size: 25px;
+}
+.C-font-size
+{
+	font-size: 37px;
+}
+.E-font-size
+{
+	font-size: 25px;
+}
+.B-font-size
+{
+	font-size: 37px;
+}
+.O-font-size
+{
+	font-size: 25px;
+}
+.A-font-size
+{
+	font-size: 37px;
+}
+.R-font-size
+{
+	font-size: 25px;
+}
+.D-font-size
+{
+	font-size: 37px;
+}
+@media screen and (max-width: 850px) {
+  .header-color {
+    background-color: lightgreen;
+  }
+}
+@media screen and (max-width: 500px) {
+  .empdetails-bg-color {
+    background-color: blue;
+    
+  }
+}
+@media screen and (max-width: 300px) {
+  .employee-secdetails-bg-color{
+   background-color: darkgreen;
+  }
+}
